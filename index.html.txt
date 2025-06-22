@@ -1,0 +1,114 @@
+<html>
+ <head>
+         <title> ortabione-vendita-ortaggi </title>
+  <body bgcolor="#6b8e23">
+   <font color="white face"="courier new">
+
+<font face= impact color=#132221>
+
+<h1 style="text-align:center;font-size: 39px;">
+
+  Orta<span style="color:#006400; font-weight:bold;">B</span>ione 
+  ortaggi <span style="color:#006400; font-weight:bold;">i</span>n vendita
+  al t<span style="color:#006400; font-weight:bold;">O</span>rrione
+</h1></font>
+
+ <h2 style="text-align: left; font-size: 36px; color: black; font-family: georgia; font-weight: bold;">
+    Cosa coltiviamo:
+  </h2>
+
+<ul type="1" style="color: black; font-family: 'Times New Roman'; font-size: 20px;">
+
+<li>fagiolli</li>                                       
+<li>fagiolini</li>
+
+
+<hr size=3 align=left color=purple width=145> 
+
+<li>patate</li>
+<li>carote/<a href=https://it.wikipedia.org/wiki/Carota_di_Polignano>carote tricolore</a></li>
+<li>ravanello</li>
+
+<hr size=3 align=left color=purple width=145>
+
+<li>cipolle</li>
+<li>aglio</li>
+<hr size=3 align=left color=purple width=145>
+
+<li>insalate</li>
+<li>cavoli</li>
+
+<hr size=3 align=left color=purple width=145>
+
+<li>angurie gialle</li>
+<li>angurie rosse</li>
+<li><a href=https://it.wikipedia.org/wiki/Citrullus_lanatus>angurie clondike</a></li>
+<li>cetrioli</li>
+<li>melanzane viola/bianche</li>
+<li>zucchini/Milano</li>
+<hr size=3 align=left color=purple width=145>
+
+<li>pomodori</li>
+<li>pomodorini</li>
+
+<hr size=3 align=left color=purple width=145>
+</ul>
+
+<div style="font-family: 'Courier New', Courier, monospace; color: black; padding: 20px; line-height: 1.6; background-color: #f9f9f9; border: 1px solid #ccc; border-radius: 10px; max-width: 800px; margin: 40px auto; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
+  <h2 style="text-align: center; color: #2c6b2f;">Il Nostro Metodo di Coltivazione</h2>
+  <p>Il nostro metodo di coltivazione si basa su un approccio completamente naturale e sostenibile, nel rispetto dell’ambiente e dei ritmi della terra. <strong>Non utilizziamo alcun tipo di pesticida o concime chimico</strong>: ci affidiamo esclusivamente a fertilizzanti naturali, come il letame maturo e la cenere, che arricchiscono il terreno in modo sano e bilanciato, favorendo una crescita rigogliosa e genuina delle piante.</p>
+
+  <p>La vita delle nostre piante inizia in vasi biodegradabili a impatto zero, che ci permettono di evitare qualsiasi tipo di plastica e ridurre al minimo l’impatto ambientale. Una volta pronte, le giovani piantine vengono messe a dimora in piena terra, precedentemente arata e rigenerata con cura, miscelando il suolo con elementi nutritivi naturali per garantire un ambiente fertile e vitale.</p>
+
+  <p>La coltivazione avviene seguendo il ritmo delle stagioni, senza forzature. Tutto il processo è manuale: dalla semina al trapianto, fino alla raccolta, che avviene esclusivamente a mano, nel pieno della stagione estiva, quando i frutti hanno raggiunto la loro piena maturazione e sprigionano tutto il loro sapore e le loro proprietà.</p>
+
+  <p>Questo modo di coltivare non è solo una scelta agricola, ma un vero e proprio stile di vita, che unisce tradizione, rispetto per la natura e attenzione per la qualità. Ogni pianta che nasce nel nostro campo è frutto di passione, pazienza e cura quotidiana.</p>
+</div>
+
+
+<style>
+  .container {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+  }
+  .container img {
+    width: 200px;
+    height: auto;
+    cursor: pointer;
+  }
+</style>
+
+<div class="container">
+  <a href="https://it.wikipedia.org/wiki/Bioplastica">
+    <img src="vaso1.jpg." alt="Vaso di fiori 1">
+  </a>
+
+  <a href="https://it.wikipedia.org/wiki/Germinazione">
+    <img src="vaso2.jpg" alt="Vaso di fiori 2">
+  </a>
+  <a href="https://it.wikipedia.org/wiki/Solanum_lycopersicum">
+    <img src="images.jpg" alt="Vaso di fiori 3">
+  </a>
+</div>
+
+<footer style="text-align: center; padding: 20px; background-color: #f3f3f3; margin-top: 40px;">
+  <p>Grazie per aver visitato il mio angolo di web 🏡</p>
+  <p>Ti aspetto anche di persona in:</p>
+  <p><strong>Via Bertola, Paese Bricco</strong>,CASCINA TORRIONE</strong></p>
+  <p><a href="bertolavittorio@pellatinizza.edu.it">Scrivimi via email</a> | <a href="#top">Torna su</a></p>
+  <p style="font-size: 0.9em; color: gray;">&copy; 2025 Vittorio Bertola - azienda ortaBIOone</p>
+</footer>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
